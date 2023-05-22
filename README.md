@@ -12,6 +12,7 @@
 
 - 🔭 Je suis Développeur Web Fullstack
 - 👯 Je recherche une alternance pour ma formation CDA DevOPS
+- 💡 Appétences pour le langage Java et la gestion de projets
 - 📫 Me contacter : **madaniahmedlb13@gmail.com**
 
 <br/>
