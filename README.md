@@ -44,8 +44,14 @@
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vsCode" width="40" height="40"/> </a>	&nbsp;
 &nbsp;
+  <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c1/Logo_Trello.svg/2560px-Logo_Trello.svg.png" alt="php" width="auto" height="30"/> </a>	&nbsp;
 <a href="https://www.phpmyadmin.net/" target="_blank">
 <img src="https://framalibre.org/sites/default/files/leslogos/phpmyadmin.jpg" alt="phpMyAdmin" width="auto" height="40"/> </a>	&nbsp; </a>
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="php" width="auto" height="30"/> </a>	&nbsp;
+   <a href="https://www.mocodo.net/" target="_blank" rel="noreferrer"> <img src="https://sql.sh/wp-content/uploads/2017/06/logo-mocodo.png" alt="php" width="auto" height="30"/> </a>	&nbsp;
+  <a href="https://dbdiagram.io/" target="_blank" rel="noreferrer"> <img src="https://blog.dbdiagram.io/content/images/2020/04/dbdiagram_logo_text_720.png" alt="php" width="auto" height="30"/> </a>	&nbsp;
+   <a href="https://www.debian.org/doc/index.fr.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/200px-Tux.svg.png" alt="php" width="auto" height="30"/> </a>	&nbsp;
+  
 </p>
 
 <br/>
