@@ -50,6 +50,9 @@
   <a href="https://dbdiagram.io/" target="_blank" rel="noreferrer"> <img src="https://blog.dbdiagram.io/content/images/2020/04/dbdiagram_logo_text_720.png" alt="php" width="auto" height="30"/> </a>	&nbsp;
   <a href="https://fr.wikipedia.org/wiki/UML_(informatique)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/800px-UML_logo.svg.png" alt="php" width="auto" height="30"/> </a>	&nbsp;
    <a href="https://www.debian.org/doc/index.fr.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/200px-Tux.svg.png" alt="php" width="auto" height="30"/> </a>	&nbsp;
+  <br>
+  <br>
+  <a href="https://symfony.com/doc/current/index.html" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_white_02.png" alt="php" width="auto" height="30"/> </a>	&nbsp;
   
 </p>
 
